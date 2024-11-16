@@ -42,7 +42,7 @@ export default function DashboardLayout({ children }: { children: ReactNode }) {
               <Image src={Logo} alt="Logo" className="size-8" />
 
               <h3 className="text-2xl">
-                Blog<span className="text-primary">Marshal</span>
+                Pen<span className="text-primary">&Thoughts</span>
               </h3>
             </Link>
           </div>
